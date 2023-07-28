@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prac4phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/react-prac4phonebook/static/js/main.6ef8092a.js",
+    "index.html": "/react-prac4phonebook/index.html",
+    "main.7acaea2f.css.map": "/react-prac4phonebook/static/css/main.7acaea2f.css.map",
+    "main.6ef8092a.js.map": "/react-prac4phonebook/static/js/main.6ef8092a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.6ef8092a.js"
+  ]
+}
